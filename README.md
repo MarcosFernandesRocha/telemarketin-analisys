@@ -1,4 +1,4 @@
-# Telemarketin Analisys - Marcos Rocha
+# Telemarketin Analysis - Marcos Rocha
 
 Projeto desenvolvido utilizando Streamlit
 
