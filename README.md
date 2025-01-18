@@ -2,7 +2,8 @@
 
 Projeto desenvolvido utilizando Streamlit
 
-Descrição: Aplicação que automatiza o carregamento de bases para visualização de potenciais clientes de um produto bancário (CDB), auxiliando o direcionamento de campanhas de marketing.
+### Descrição: 
+Aplicação que automatiza o carregamento de bases para visualização de potenciais clientes de um produto bancário (CDB), auxiliando o direcionamento de campanhas de marketing.
 
 
 
