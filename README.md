@@ -7,4 +7,5 @@ Aplicação que automatiza o carregamento de bases para visualização de potenc
 
 
 
-[streamlit-mod19-ex1-marcos-rocha.webm](https://github.com/user-attachments/assets/d1786a2c-f9ce-4d0d-a0e4-151311b3bc68)
+[streamlit-mod19-ex1-marcos-rocha.webm](https://github.com/user-attachments/assets/2154f929-69db-45d3-ba9a-27f5cbf50ccc)
+
